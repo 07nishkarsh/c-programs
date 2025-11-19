@@ -14,5 +14,6 @@ int main() {
     }
     avg = sum / n;
     printf("The average of the array elements is: %f", avg);
+    // test git hub edit
     return 0;   
 }
